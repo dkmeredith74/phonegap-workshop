@@ -53,7 +53,15 @@ body {
 .header-button-left {
     left: 4;
 }
-
+.scroll{
+    overflow: auto;
+    -webkit-overflow-scrolling:touch;
+    position: absolute;
+    top:84px;
+    bottom:0;
+    left: 0;
+    right: 0;
+}
 .search-bar {
     background: #ccc;
     height: 32px;
@@ -141,7 +149,10 @@ li>a {
 li>a * {
     pointer-events: none;
 }
-
+li>a.tappable-active{
+    color:#fff;
+    background-color: #4286f5;
+}
 .button {
 	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
