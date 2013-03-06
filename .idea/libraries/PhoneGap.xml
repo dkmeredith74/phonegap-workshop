@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="PhoneGap" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$USER_HOME$/Dropbox/Tools/Mobile Development Frameworks/phonegap-phonegap-2.0.0-0-g2dbbdab/phonegap-phonegap-2dbbdab/lib/android/cordova-2.0.0.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Dropbox/Tools/Mobile Development Frameworks/phonegap-phonegap-2.0.0-0-g2dbbdab/phonegap-phonegap-2dbbdab/lib/android/cordova-2.0.0.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
